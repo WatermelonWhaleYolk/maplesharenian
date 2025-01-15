@@ -1,1 +1,1 @@
-# maplesharenian
+# 메이플스토리 각 직업별 수로 빌드
